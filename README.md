@@ -2,8 +2,8 @@
 
 # Project Name
 Break Out
-Context and date
-Project 03 JuicyBreakout Game
+
+Project 03 JuicyBreakout Game 02/26/2024
 
 
 Description
@@ -11,13 +11,13 @@ A
 
 ## Implementation
 Added music to main menu and ending menu. 
-Added color to the blocks
-Added particle machine on to paddle
-Sound effects added to ball, paddle and bricks
-Color of the paddle changes when hit
-Added shaders to both main and ending menu
-Screen shakes when bricks are hit
-Ball warps after hitting a brick
+Added color to the blocks.
+Added particle machine on to paddle.
+Sound effects added to ball, paddle and bricks.
+Color of the paddle changes when hit.
+Added shaders to both main and ending menu.
+Screen shakes when bricks are hit.
+Ball warps after hitting a brick.
 
 ## References
 * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
