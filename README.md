@@ -7,7 +7,7 @@ Project 03 JuicyBreakout Game 02/26/2024
 
 
 Description
-A 
+A brick breaker game
 
 ## Implementation
 Added music to main menu and ending menu. 
