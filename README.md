@@ -10,7 +10,7 @@ Description
 A 
 
 ## Implementation
-Added music to main menu and ending menu
+Added music to main menu and ending menu. 
 Added color to the blocks
 Added particle machine on to paddle
 Sound effects added to ball, paddle and bricks
